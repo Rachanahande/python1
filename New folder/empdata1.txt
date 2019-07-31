@@ -1,0 +1,16 @@
+1,lakshman,M.tech,50000,CSE
+2,Niranjan,M.tech,20000,ME
+3,joy,B.tech,60000,CSE
+4,rashmi,M.tech,40000,EC
+5,rakshitha,BE,84000,EEE
+6,sneha,M.tech,60000,ISE
+7,shreya,BE,150000,CSE
+8,praneeth,M.tech,75000,CSE
+9,shashank,b.tech,60000,ISE
+10,varshitha,MS,150000,CSE
+11,karan,MS,100000,CSE
+12,vikyath,M.tech,70000,MT
+13,vignesh,M.tech,90000,CSE
+14,aishwarya,M.tech,88000,CSE
+15,shifali,M.tech,87000,MT
+16,varun,BE,84000,CSE

@@ -1,0 +1,14 @@
+def searchLinear(lst,ele):
+    index = 0
+    for i in lst:
+        if i == ele:
+            return index
+        index +=1
+    return -1
+
+ele = 56
+res = searchLinear([1,2,3,4,2,3,6,7,8],ele)
+if res == -1:
+    print(f"{ele} is not found")
+else:
+    print(f"{ele} is found at: {res}")
